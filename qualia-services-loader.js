@@ -7,8 +7,8 @@
 (function() {
     // Configuration
     const config = {
-        // Base URL where your assets are hosted - update with your actual hosting URL
-        baseURL: 'https://cdn.example.com/qualia-agents/', // Update this to your actual hosting URL
+        // Base URL where your assets are hosted - GitHub Pages URL
+        baseURL: 'https://qualiasolutions.github.io/',
         
         // Assets to load
         css: 'styles.css',
